@@ -1,4 +1,4 @@
-# ew13r5 — Full-Stack Python Developer
+# Full-Stack Python Developer
 
 I build automation systems that run 24/7 without manual intervention.
 
